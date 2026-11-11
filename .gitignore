@@ -1,0 +1,7 @@
+autoclicker_config.json
+__pycache__/
+.venv-build/
+build/
+dist/
+*.spec
+.DS_Store
